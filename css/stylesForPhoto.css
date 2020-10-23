@@ -32,6 +32,10 @@ a {
   font-family: 'Montserrat', sans-serif;
 }
 
+a:hover{
+  color:#eaf6f6;
+}
+
 .header {
   padding: 100px;
 }
